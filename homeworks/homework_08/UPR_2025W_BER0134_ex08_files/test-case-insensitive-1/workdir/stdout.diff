@@ -1,0 +1,7 @@
+--- /home/vojta/Documents/kody/homework_08/UPR_2025W_BER0134_ex08_files/test-case-insensitive-1/stdout
++++ /home/vojta/Documents/kody/homework_08/UPR_2025W_BER0134_ex08_files/test-case-insensitive-1/workdir/actual-stdout
+@@ -1,4 +0,0 @@
+-AbXa
+-xxxabx
+-aa aAa ABX
+-abbbxxabx

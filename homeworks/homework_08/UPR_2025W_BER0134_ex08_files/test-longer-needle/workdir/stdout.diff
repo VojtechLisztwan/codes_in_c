@@ -1,0 +1,6 @@
+--- /home/vojta/Documents/kody/homework_08/UPR_2025W_BER0134_ex08_files/test-longer-needle/stdout
++++ /home/vojta/Documents/kody/homework_08/UPR_2025W_BER0134_ex08_files/test-longer-needle/workdir/actual-stdout
+@@ -1,3 +0,0 @@
+-aAaa
+-aAaxAaaA
+-aa aAa xxx
