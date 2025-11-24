@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/Projekt.dir/link.d CMakeFiles/Projekt.dir/main.c.o -o Projekt  -lm /usr/lib/x86_64-linux-gnu/libSDL2.so

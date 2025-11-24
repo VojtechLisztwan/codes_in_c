@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/MySDLApp.dir/link.d CMakeFiles/MySDLApp.dir/main.c.o -o MySDLApp  /usr/lib/x86_64-linux-gnu/libSDL2.so -lm
