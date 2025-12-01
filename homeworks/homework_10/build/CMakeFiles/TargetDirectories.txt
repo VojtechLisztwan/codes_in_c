@@ -1,0 +1,3 @@
+/home/vojta/Documents/GitHub/codes_in_c/homeworks/homework_10/build/CMakeFiles/snowflakes.dir
+/home/vojta/Documents/GitHub/codes_in_c/homeworks/homework_10/build/CMakeFiles/edit_cache.dir
+/home/vojta/Documents/GitHub/codes_in_c/homeworks/homework_10/build/CMakeFiles/rebuild_cache.dir

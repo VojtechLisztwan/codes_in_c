@@ -1,0 +1,1 @@
+/usr/bin/cc  -fsanitize=address -Wl,--dependency-file=CMakeFiles/snowflakes.dir/link.d CMakeFiles/snowflakes.dir/main.c.o CMakeFiles/snowflakes.dir/sdl.c.o CMakeFiles/snowflakes.dir/dynamic_array.c.o -o snowflakes  -lSDL2 -lSDL2_image
