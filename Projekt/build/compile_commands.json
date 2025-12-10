@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/vojta/Documents/kody/Projekt/build",
-  "command": "/usr/bin/cc  -I/usr/include/SDL2 -g -std=gnu11 -o CMakeFiles/sdlgame.dir/main.c.o -c /home/vojta/Documents/kody/Projekt/main.c",
-  "file": "/home/vojta/Documents/kody/Projekt/main.c",
-  "output": "CMakeFiles/sdlgame.dir/main.c.o"
-}
-]

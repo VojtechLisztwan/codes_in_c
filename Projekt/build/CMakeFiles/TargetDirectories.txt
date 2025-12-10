@@ -1,3 +1,0 @@
-/home/vojta/Documents/kody/Projekt/build/CMakeFiles/sdlgame.dir
-/home/vojta/Documents/kody/Projekt/build/CMakeFiles/edit_cache.dir
-/home/vojta/Documents/kody/Projekt/build/CMakeFiles/rebuild_cache.dir
